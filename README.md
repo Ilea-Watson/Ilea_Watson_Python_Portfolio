@@ -494,15 +494,6 @@ fig.tight_layout()
 
 
 
-```python
-
-```
-
-
-```python
-
-```
-
 ## Python Fundamentals
 
 ```python
